@@ -10,5 +10,5 @@ Uses X-Gorgon and X-Khronos generation to bypass API security on check and claim
 * Run `go run .` to compile and run.
 
 **Usage**
-* The Autoclaimer uses Mobile Tiktok Session ID's to check and claim. This can be grabbed using an rooted/jailbroken device with SSL Unpinning.
+* The Autoclaimer uses mobile Tiktok session id's to check and claim. This can be grabbed using an rooted/jailbroken device with SSL Unpinning.
 * Account Session's go in 'sessions.txt' in the following format: *email:password:session*
